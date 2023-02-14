@@ -14,7 +14,7 @@
           class="py-2 mr-2 font-bold text-white rounded-full cursor-pointer px6 focus:outline-none">
           Feedbacks
         </li>
-        <li @click="handleLogout"
+        <li id="logout-button" @click="handleLogout"
           class="px-6 py-2 font-bold bg-white rounded-full cursor-pointer text-brand-main focus:outline-none">
           {{ logoutLabel }}
         </li>
