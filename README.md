@@ -1,4 +1,4 @@
-# dashboard
+# Projeto `dashboard` desenvolvido no [Treinamento de Vue.js 3](https://treinamento.vuejsbrasil.org) da [Vue.js Brasil](https://vuejsbrasil.org/)
 
 ## Project setup
 ```
